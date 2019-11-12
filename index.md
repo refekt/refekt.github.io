@@ -3,6 +3,6 @@
 
 ### About Me
 * Home town:
-** Wouldn't you like to know!
+  * Wouldn't you like to know!
 * Family life:
-** AGAIN!
+  * AGAIN!
