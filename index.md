@@ -1,5 +1,5 @@
 # Aaron Gonzales
-## *Software Developer*, Languages: *Python, HTML, Visual Basic*
+## Software Developer *(Python, HTML, Visual Basic)*
 
 ### About Me
 * Home town:
