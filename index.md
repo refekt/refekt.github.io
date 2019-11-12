@@ -7,16 +7,16 @@
 * Warehousing, 3 years
 * Customer Service, 6 years
 
-## Skills
+### Skills
 * Leadership
 * Management
 * Process Improvement
 
-## Education
+### Education
 * Associate's Degree in Logistics and Business Administration, 4.0
 * In progress: Bachelor's Degree in Supply Chain Management, 4.0
 
-## Recognition
+### Recognition
 * 12 Honors & Awards
 
 ### Hobbies
