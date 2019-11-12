@@ -1,11 +1,15 @@
 # Aaron Gonzales
-## Developer *(Python, HTML, Visual Basic)*
+## *Python, Visual Basic, Graphic design, HTML*
+
+### Repos
+* [Bot Frost](https://github.com/refekt/Bot-Frost/)
 
 ### Experience
 * Logistics, 9 years
 * Global Supply Chain management, 4 years
 * Warehousing, 3 years
 * Customer Service, 6 years
+* Programming (off and on), 20 years
 
 ### Skills
 * Leadership
